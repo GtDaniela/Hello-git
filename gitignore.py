@@ -1,0 +1,1 @@
+print("simulacion de gitignore")
